@@ -1,6 +1,6 @@
 # LFMonthPicker
 An iOS month picker to allow users to select year and month
-![](https://github.com/Jucuzzi/LFMonthPicker/blob/master/IMG_0705.jpg)
+![](https://github.com/Jucuzzi/LFMonthPicker/blob/master/Preview.jpg)
 ## 如何使用
 ### 首先为了避免iOS11以上的安全区域的影响，需要在delegate里面加入以下代码，对全工程有效，已做过tableView的iOS11相关适配的同学请忽略
 ```c
